@@ -1,0 +1,8 @@
+id,status,amount,region
+1,paid,500,Nord
+2,pending,200,Sud
+3,paid,300,Nord
+4,cancelled,150,Est
+5,paid,800,Sud
+6,pending,120,Nord
+7,paid,450,Est
