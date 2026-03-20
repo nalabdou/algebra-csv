@@ -66,7 +66,7 @@ use Nalabdou\Algebra\Csv\ValueObject\CsvOptions;
  */
 class CsvResourceAdapter implements CsvAdapterInterface
 {
-    final public function __construct(
+    public function __construct(
         private readonly CsvOptions $options = new CsvOptions(),
         private readonly CsvParserInterface $parser = new CsvParser(),
     ) {

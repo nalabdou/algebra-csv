@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f00d177d21ef82a71512601b92493cc9",
+    "content-hash": "bc6a55aa7c41d30de3346926160bb860",
     "packages": [
         {
             "name": "nalabdou/algebra-php",
