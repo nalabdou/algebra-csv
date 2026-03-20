@@ -1,0 +1,13 @@
+id,name,department,salary,start_year,level
+1,Alice Martin,Engineering,92000,2019,Senior
+2,Bob Dupont,Sales,58000,2021,Junior
+3,Carol Smith,Engineering,105000,2017,Lead
+4,Dave Chen,Marketing,67000,2020,Mid
+5,Eve Bernard,Engineering,78000,2022,Mid
+6,Frank Muller,Sales,72000,2018,Senior
+7,Grace Lee,Marketing,61000,2023,Junior
+8,Hank Torres,Engineering,88000,2020,Senior
+9,Iris Patel,Sales,54000,2022,Junior
+10,Jack Wilson,Marketing,70000,2019,Mid
+11,Kate Brown,Engineering,115000,2015,Lead
+12,Leo Rossi,Sales,65000,2020,Mid

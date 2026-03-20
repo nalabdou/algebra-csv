@@ -1,0 +1,16 @@
+id,name,category,price,stock,rating
+1,Laptop Pro 15,Electronics,1299.99,45,4.7
+2,Wireless Mouse,Electronics,29.99,312,4.3
+3,USB-C Hub,Electronics,49.99,178,4.1
+4,Standing Desk,Furniture,649.00,22,4.8
+5,Ergonomic Chair,Furniture,499.00,37,4.6
+6,Monitor 27inch,Electronics,399.00,89,4.5
+7,Keyboard Mech,Electronics,129.00,201,4.4
+8,Bookshelf Oak,Furniture,189.00,14,4.2
+9,Webcam HD,Electronics,79.99,156,3.9
+10,Desk Lamp LED,Furniture,59.99,243,4.0
+11,Headphones BT,Electronics,199.00,98,4.6
+12,Cable Organizer,Accessories,14.99,520,3.8
+13,Mousepad XL,Accessories,24.99,410,4.2
+14,Monitor Arm,Accessories,89.00,167,4.5
+15,Laptop Stand,Accessories,44.99,289,4.3
